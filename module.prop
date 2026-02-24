@@ -1,0 +1,8 @@
+id=bluelightfilter
+name=Blue Light Filter
+version=1.0.0
+versionCode=10000
+author=None Baiano
+description=System-wide blue light filter via SurfaceFlinger. Covers the entire display including status bar and navigation bar.
+minApi=26
+webroot=true
